@@ -37,6 +37,7 @@ $ npm run dev
 - [Node.js](https://nodejs.org/en/) - Build the server
 - [Express](https://expressjs.com/) - Router
 - [TypeOrm](https://typeorm.io/#/) - ORM
+- [SQLite](https://www.sqlite.org/index.html) - Database
 - [Multer](https://github.com/expressjs/multer) - File upload
 - [Express-Async-Errors](https://openbase.io/js/express-async-errors/documentation) - Errors
 - [Yup](https://github.com/jquense/yup) - Validation
