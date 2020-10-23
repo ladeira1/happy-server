@@ -2,7 +2,7 @@
 This is the back-end of [Happy](https://github.com/ladeira1/happy-web).
 
 ## About This Project
-This project is being developed at the NextLevelWeek #3, organized by RocketSeat. It is an app that intends to help find near orphanages to visit. This project is divided in three repositories ([web](https://github.com/ladeira1/happy-web), mobile and backend).
+This project is being developed at the NextLevelWeek #3, organized by RocketSeat. It is an app that intends to help find near orphanages to visit. This project is divided in three repositories ([web](https://github.com/ladeira1/happy-web), [mobile](https://github.com/ladeira1/happy-mobile) and backend).
 
 ## Getting Started
 ### Prerequisites
